@@ -11,6 +11,7 @@
 		3E4922072BE4C565000D991F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E4922062BE4C565000D991F /* ContentView.swift */; };
 		3E4922092BE4C566000D991F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3E4922082BE4C566000D991F /* Assets.xcassets */; };
 		3E49220C2BE4C566000D991F /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3E49220B2BE4C566000D991F /* Preview Assets.xcassets */; };
+		3E676CAB2BE4D21400E691BE /* CalculatePathView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E676CAA2BE4D21400E691BE /* CalculatePathView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		3E4922062BE4C565000D991F /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		3E4922082BE4C566000D991F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3E49220B2BE4C566000D991F /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		3E676CAA2BE4D21400E691BE /* CalculatePathView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalculatePathView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				3E4922042BE4C565000D991F /* MapKitBasicsApp.swift */,
 				3E4922062BE4C565000D991F /* ContentView.swift */,
+				3E676CAA2BE4D21400E691BE /* CalculatePathView.swift */,
 				3E4922082BE4C566000D991F /* Assets.xcassets */,
 				3E49220A2BE4C566000D991F /* Preview Content */,
 			);
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3E4922072BE4C565000D991F /* ContentView.swift in Sources */,
+				3E676CAB2BE4D21400E691BE /* CalculatePathView.swift in Sources */,
 				3E4922052BE4C565000D991F /* MapKitBasicsApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
